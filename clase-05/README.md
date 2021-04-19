@@ -46,7 +46,7 @@ Tanto la copia como el resultado de edición con [Adobe Illustrator](https://www
 | 19 |	TRINIDAD MARTÍNEZ | https://trinidadmartinez.github.io/ejercicio5/ |
 | 20 |	TAMARA PEÑA | — |
 | 21 |	RACHEL QUIROZ | — |
-| 22 |	CRISTIAN RISCO | — |
+| 22 |	CRISTIAN RISCO | https://cristianrisco.github.io/clase5/ |
 | 23 |	ELISA ROMÁN | — |
 | 24 |	SOFÍA SÁNCHEZ | https://sofiasanchezdonoso.github.io/infodigital_5/ |
 | 25 |	PAULA SCHELEFF | https://paulascheleff.github.io/infodigital-5/ |
