@@ -56,7 +56,7 @@ El resultado será evaluado con nota parcial, considerando la siguiente pauta de
 | 16 |	PABLO LARRAÍN | P |
 | 17 |	VALENTINA MADRID | https://github.com/Valevmu/Clase11 |
 | 18 |	TRINIDAD MARTÍNEZ | P |
-| 19 |	CRISTIAN RISCO | P |
+| 19 |	CRISTIAN RISCO | https://cristianrisco.github.io/clase11/ |
 | 20 |	ELISA ROMÁN | P |
 | 21 |	SOFÍA SÁNCHEZ | https://sofiasanchezdonoso.github.io/infodigital-11/ |
 | 22 |	PAULA SCHELEFF | https://paulascheleff.github.io/infodigital-11/ |
